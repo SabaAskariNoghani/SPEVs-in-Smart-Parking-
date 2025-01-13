@@ -39,7 +39,8 @@ for each example follow these roots:
 Modify any parameters or inputs as needed (see comments in the code for guidance).
  
 Execute the script in MATLAB.
- 
+## File Structure
+...
 ## Dependencies
 This code relies on the following MATLAB toolboxes:
 [Optimization Toolbox] 
@@ -49,6 +50,7 @@ matlab
 Copy
 ver 2024a
 This project is licensed under the CC 4.0 - see the LICENSE file for details.
+The work of S. Askari Noghani was supported the Italian National Recovery and Resilience Plan (NRRP) --funded by the European Union Next-GenerationEU-- Mission 4 Component 1 Investment 4.1 - Decree no. 351 of April 9, 2022 of Italian Ministry of University and Research (MUR) (project code: D93C22000850005) within the Italian National Ph.D. Program in Autonomous Systems (DAuSy).
  
 ## Citation
 
