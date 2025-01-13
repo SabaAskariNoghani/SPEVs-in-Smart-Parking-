@@ -76,7 +76,7 @@ This project is licensed under the CC 4.0 - see the LICENSE file for details.
   organization={IEEE}
 }
 
-### Safe and Feasible Energy Flow Control for Charging Infrastructures Compatible with Solar Electric Vehicles: An MPC Approach with Real-World Case Study},
+### Safe and Feasible Energy Flow Control for Charging Infrastructures Compatible with Solar Electric Vehicles: An MPC Approach with Real-World Case Study,
  
 @article{noghani2025solar,
  
