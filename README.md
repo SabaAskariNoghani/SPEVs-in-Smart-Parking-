@@ -6,21 +6,15 @@
 This repository contains MATLAB code related to the paper titled "Safe and Feasible Energy Flow Control for Charging Infrastructures Compatible with Solar Electric Vehicles: An MPC Approach with Real-World Case Study by Saba Askari Noghani et al. The code implements simulations of the charging and discharging of  EVs and SPEVs from the perspective of Charging Pils, the algorithm is an MPC framework, and several examples are solved as well as a real-world data case study. This repository is intended to provide transparency, reproducibility, and ease of use for researchers and practitioners interested in the energy management of smart parking lots.
  
 ## Table of Contents
-Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [File Structure](#file-structure)
+- [Dependencies](#dependencies)
+- [License](#license)
+- [Citation](#citation)
+- [Contact](#contact)
  
-Usage
- 
-File Structure
- 
-Dependencies
- 
-License
- 
-Citation
- 
-Contact
- 
-# Installation
+## Installation
 To use this code, follow these steps:
  
 Clone this repository to your local machine:
@@ -32,7 +26,7 @@ Ensure you have MATLAB installed (version 2024a or later).
  
 Open MATLAB and navigate to the cloned repository folder.
  
-# Usage
+## Usage
 To run the code:
 for each example follow these roots:
 
@@ -46,17 +40,17 @@ Modify any parameters or inputs as needed (see comments in the code for guidance
  
 Execute the script in MATLAB.
  
-# Dependencies
+## Dependencies
 This code relies on the following MATLAB toolboxes:
 [Optimization Toolbox] 
 Ensure these toolboxes are installed in your MATLAB environment. To check, run:
- 
+## License 
 matlab
 Copy
 ver 2024a
 This project is licensed under the CC 4.0 - see the LICENSE file for details.
  
-# Citation
+## Citation
 
  
 ### Solar-Powered Electric Vehicles into V2G-Capable Smart Parking Infrastructure for Enhanced Energy Efficiency
@@ -95,7 +89,7 @@ This project is licensed under the CC 4.0 - see the LICENSE file for details.
   pages={###}
 }
  
-Contact
+## Contact
 For questions, suggestions, or collaborations, feel free to contact: 
  
 Saba Askari Noghani
