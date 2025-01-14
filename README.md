@@ -80,7 +80,7 @@ The work of S. Askari Noghani was supported the Italian National Recovery and Re
   organization={IEEE}
 }
 
-### Safe and Feasible Energy Flow Control for Charging Infrastructures Compatible with Solar Electric Vehicles: An MPC Approach with Real-World Case Study,
+### Safe and Feasible Energy Flow Control for Charging Infrastructures Compatible with Solar Electric Vehicles: An MPC Approach with Real-World Case Study
  
 @article{noghani2025solar,
  
