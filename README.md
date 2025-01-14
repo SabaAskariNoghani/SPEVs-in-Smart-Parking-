@@ -52,9 +52,7 @@ Execute the script in MATLAB.
   ↳ function_folder  
   ↳ MPC_CPEMS_ver7.m
 ## Dependencies
-This code relies on the following MATLAB toolboxes:
-[Optimization Toolbox] 
-Ensure these toolboxes are installed in your MATLAB environment. To check, run:
+This code relies on the following MATLAB toolboxes: [Optimization Toolbox] Ensure this toolbox i installed in your MATLAB environment. You can make sure through checking from App sheet in Matlab.
 ## License 
 matlab
 Copy
