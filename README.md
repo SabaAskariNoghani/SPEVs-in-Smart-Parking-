@@ -40,7 +40,17 @@ Modify any parameters or inputs as needed (see comments in the code for guidance
  
 Execute the script in MATLAB.
 ## File Structure
-...
+*1st_example  
+  ↳ function_folder  
+  ↳ SPEV_CPEMS_ver4.m
+  
+*2nd_example  
+  ↳ function_folder  
+  ↳ MPC_CPEMS_ver3.m
+  
+*3rd_example_case_study  
+  ↳ function_folder  
+  ↳ MPC_CPEMS_ver7.m
 ## Dependencies
 This code relies on the following MATLAB toolboxes:
 [Optimization Toolbox] 
