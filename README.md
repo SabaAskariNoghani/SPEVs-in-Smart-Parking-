@@ -1,5 +1,5 @@
 
-# **Smart parking lot compatible with Solar-Power Electric Vehicle**
+# **Predictive Energy Scheduling of Smart Parking Infrastructure with Solar-powered Electric Vehicles**
  
 ## Description
 
