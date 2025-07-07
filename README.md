@@ -69,7 +69,7 @@ The work of S. Askari Noghani was supported the Italian National Recovery and Re
   
   title={Solar-Powered Electric Vehicles into V2G-Capable Smart Parking Infrastructure for Enhanced Energy Efficiency},
   
-  author={Noghani, Saba Askari and Scarabaggio, Paolo and Carli, Raffaele and Dotoli, Mariagrazia},
+  author={Askari Noghani, Saba  and Scarabaggio, Paolo and Carli, Raffaele and Dotoli, Mariagrazia},
  
   booktitle={2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)},
  
@@ -86,7 +86,7 @@ The work of S. Askari Noghani was supported the Italian National Recovery and Re
  
   title={Predictive Energy Scheduling of Smart Parking Infrastructure with Solar-powered Electric Vehicles},
  
-  author={Noghani, Saba Askari and Scarabaggio, Paolo and Carli, Raffaele and Dotoli, Mariagrazia},
+  author={Askari Noghani, Saba  and Scarabaggio, Paolo and Carli, Raffaele and Dotoli, Mariagrazia},
  
   journal={IFAC Journal of System and Control},
   
