@@ -80,15 +80,15 @@ The work of S. Askari Noghani was supported the Italian National Recovery and Re
   organization={IEEE}
 }
 
-### Safe and Feasible Energy Flow Control for Charging Infrastructures Compatible with Solar Electric Vehicles: An MPC Approach with Real-World Case Study
+### Predictive Energy Scheduling of Smart Parking Infrastructure with Solar-powered Electric Vehicles
  
 @article{noghani2025solar,
  
-  title={Safe and Feasible Energy Flow Control for Charging Infrastructures Compatible with Solar Electric Vehicles: An MPC Approach with Real-World Case Study},
+  title={Predictive Energy Scheduling of Smart Parking Infrastructure with Solar-powered Electric Vehicles},
  
   author={Noghani, Saba Askari and Scarabaggio, Paolo and Carli, Raffaele and Dotoli, Mariagrazia},
  
-  journal={under submition},
+  journal={IFAC Journal of System and Control},
   
   year={2025},
  
